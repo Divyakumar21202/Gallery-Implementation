@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery Image Fetching</string>
+    <string name="open_gallery">Open Gallery</string>
+    <string name="no_image_is_selected">No Image is Selected</string>
+</resources>
